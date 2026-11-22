@@ -1,0 +1,45 @@
+{
+  "model": "RandomForest",
+  "strateji": "class_weight",
+  "esik": 0.522275889936975,
+  "parametreler": {
+    "n_estimators": "300",
+    "min_samples_leaf": "20",
+    "max_features": "sqrt",
+    "max_depth": "8"
+  },
+  "ozellikler": [
+    "Failed_Transaction_Count_7d",
+    "Risk_Score",
+    "basarisiz_gunluk_orani",
+    "Transaction_Type_POS",
+    "uzaklik_kart_yasi_orani",
+    "gece_mi",
+    "Merchant_Category_Restaurants",
+    "Location_New York",
+    "Card_Type_Discover",
+    "Avg_Transaction_Amount_7d_log",
+    "saat",
+    "Authentication_Method_OTP",
+    "Device_Type_Tablet",
+    "Card_Type_Visa",
+    "Location_Mumbai",
+    "ay",
+    "Merchant_Category_Groceries",
+    "Authentication_Method_Password",
+    "Device_Type_Mobile",
+    "Daily_Transaction_Count"
+  ],
+  "senaryo": "tum",
+  "test": {
+    "PR_AUC": 1.0,
+    "ROC_AUC": 1.0,
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1": 1.0,
+    "MCC": 1.0,
+    "Bal_Acc": 1.0
+  },
+  "cv_val_pr_auc": 1.0,
+  "cv_gap": 0.0
+}

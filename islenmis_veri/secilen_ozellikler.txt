@@ -1,0 +1,20 @@
+Failed_Transaction_Count_7d
+Risk_Score
+basarisiz_gunluk_orani
+Transaction_Type_POS
+uzaklik_kart_yasi_orani
+gece_mi
+Merchant_Category_Restaurants
+Location_New York
+Card_Type_Discover
+Avg_Transaction_Amount_7d_log
+saat
+Authentication_Method_OTP
+Device_Type_Tablet
+Card_Type_Visa
+Location_Mumbai
+ay
+Merchant_Category_Groceries
+Authentication_Method_Password
+Device_Type_Mobile
+Daily_Transaction_Count
